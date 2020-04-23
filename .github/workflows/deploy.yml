@@ -1,0 +1,29 @@
+name: Deploy Web
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+
+      - name: Copy Markdown Files
+        run: |
+          cp -f {README.md,README-zh.md,editor-plugin.md,editor-plugin-zh.md} ./web/
+          cd web
+          chmod +x run.sh
+          bash run.sh
+
+      - name: Deploy Github
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.AWESOME_MAC_TOKEN }}
+          publish_dir: ./web
+          publish_branch: gh-pages
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: "Deployed from bot > ${{ github.event.head_commit.message }}"
