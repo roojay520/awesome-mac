@@ -31,7 +31,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   - [Reading and Writing Tools](#reading-and-writing-tools)
       - [Text Editors](#text-editors)
       - [Office](#office)
-      - [Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)](#markdown-tools-img-src%22httpsgithubcombubuanabelasawesome-markdowntools%22-alt%22awesome-list%22)
+      - [Markdown Tools](#markdown-tools)
       - [Note-taking](#note-taking)
       - [Journaling](#journaling)
       - [Ebooks](#ebooks)
@@ -43,7 +43,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
       - [Regular Expression Editors](#regular-expression-editors)
       - [API Development and Analysis](#api-development-and-analysis)
       - [Network Analysis](#network-analysis)
-      - [Command Line Tools [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)](#command-line-tools-img-src%22httpsgithubcomherrbischoffawesome-macos-command-linereadme%22-alt%22awesome-list%22)
+      - [Command Line Tools](#command-line-tools)
       - [Frameworks For Hybrid Applications](#frameworks-for-hybrid-applications)
       - [Version Control](#version-control)
       - [Virtualization](#virtualization)
@@ -82,7 +82,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   - [Gaming Software](#gaming-software)
   - [Remote Login Software](#remote-login-software)
   - [Social Networking](#social-networking)
-  - [QuickLook Plugins [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)](#quicklook-plugins-img-src%22httpsgithubcomsindresorhusquick-look-pluginsreadme%22-alt%22awesome-list%22)
+  - [QuickLook Plugins](#quicklook-plugins)
   - [Third Party App Markets](#third-party-app-markets)
       - [Package Managers](#package-managers)
   - [Mac App Download Sites](#mac-app-download-sites)
@@ -128,7 +128,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) Unmistakably Office, designed for Mac. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
 * [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) A complete office suite that aims for full compatibility with Microsoft Office documents
 
-#### Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+#### Markdown Tools
+
+> [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
@@ -248,7 +250,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Koala](http://koala-app.com) - GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - Brew services management in Mac System Preferences. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations. Supports Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats. [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707)
-* [Localname](http://localname.io/) - Provide access to your local development server. ![Freeware][Freeware Icon]
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
 * [MJML](https://mjmlio.github.io/mjml-app/) - Framework that utilizes a semantic syntax and a rich standard components library, which allow users to easily create responsive emails. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
 * [PaintCode](https://www.paintcodeapp.com/) - PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.
@@ -295,7 +296,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Proxyman](https://proxyman.app) - Modern and intuitive HTTP debugging proxy for macOS. ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
-#### Command Line Tools [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+#### Command Line Tools
+
+> [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 
 * [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers. ![Freeware][Freeware Icon]
 * [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
@@ -507,6 +510,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Snipaste](https://www.snipaste.com) -  Simple but powerful snipping tool. ![Freeware][Freeware Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/monosnap/id1199502670)
 * [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://itunes.apple.com/app/xnip-handy-screenshot-app/id1221250572) ![Freeware][Freeware Icon]
+* [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]
 
 #### Other Tools
 
@@ -674,7 +678,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ## Browsers
 
-* [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
+* [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/) ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
 * [Microsoft Edge](https://www.microsoft.com/edge) — Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
@@ -925,7 +929,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Chirper](https://arguiot.com/Chirper/) - A simple and tiny menu bar app for Buffer/Twitter that helps you tweet your thoughts without opening anything.
 * [Flume](https://flumeapp.com) - A beautiful Instagram experience for your Mac. The free version is good enough if you only want to do the browsing instead of posting.![Freeware][Freeware Icon]
 
-## QuickLook Plugins [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
+## QuickLook Plugins
+
+> [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
 * [QuicklookStephen](https://github.com/whomwah/qlstephen) - Preview plain text files without or with unknown file extension. such as README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
 
