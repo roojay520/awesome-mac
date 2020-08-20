@@ -1,4 +1,5 @@
-# Awesome Mac
+Awesome Mac
+----
 
 > Last updated: {docsify-updated}
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746) [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175) [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
@@ -16,19 +17,39 @@
 
 ## 目录
 
+- [Awesome Mac](#awesome-mac)
+- [目录](#目录)
 - [开发者工具](#开发者工具)
-- [测试工具](#测试工具)
-- [命令行工具](#命令行工具)
-- [版本控制](#版本控制)
-- [数据库](#数据库)
+  - [编辑器](#编辑器)
+  - [开发者实用工具](#开发者实用工具)
+  - [正则编辑器](#正则编辑器)
+  - [API开发和分析](#api开发和分析)
+  - [网络分析](#网络分析)
+  - [命令行工具](#命令行工具)
+  - [版本控制](#版本控制)
+  - [GUI](#gui)
+  - [版本控制系统](#版本控制系统)
+  - [数据库](#数据库)
 - [设计和产品](#设计和产品)
+  - [设计工具](#设计工具)
+  - [原型流程](#原型流程)
+  - [作图工具](#作图工具)
+  - [截图工具](#截图工具)
+  - [其它工具](#其它工具)
 - [虚拟机](#虚拟机)
 - [通信](#通信)
+  - [Email](#email)
+  - [文件共享](#文件共享)
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
+  - [云音乐播放器](#云音乐播放器)
 - [书签阅读写作](#书签阅读写作)
-- [软件打包工具](#软件打包工具)
+  - [Office](#office)
+  - [RSS](#rss)
+  - [Markdown](#markdown)
+  - [笔记](#笔记)
 - [制作电子书](#制作电子书)
+- [软件打包工具](#软件打包工具)
 - [下载工具](#下载工具)
 - [网盘](#网盘)
 - [输入法](#输入法)
@@ -37,10 +58,25 @@
 - [安全工具](#安全工具)
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
+  - [剪贴板工具](#剪贴板工具)
+  - [菜单栏工具](#菜单栏工具)
+  - [待办事项工具](#待办事项工具)
+  - [系统相关工具](#系统相关工具)
+  - [窗口管理](#窗口管理)
+  - [密码管理](#密码管理)
+  - [Finder](#finder)
 - [远程协助](#远程协助)
 - [QuickLook插件](#quicklook插件)
 - [第三方应用市场APP](#第三方应用市场app)
+  - [正版](#正版)
+  - [应用商店黑名单](#应用商店黑名单)
 - [Mac软件下载网站](#mac软件下载网站)
+  - [正版/介绍](#正版介绍)
+  - [盗版软件下载网站黑名单](#盗版软件下载网站黑名单)
+- [Contributors](#contributors)
+- [Backers](#backers)
+- [Sponsors](#sponsors)
+- [License](#license)
 
 
 
@@ -418,7 +454,7 @@
 * [零信](https://pubu.im/apps/osx) - 随时随地工作，跨平台。
 * [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
 * [日事清](https://www.rishiqing.com) - 工作计划软件，日志软件，项目管理，团队协作软件，个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。![Freeware][Freeware Icon]
-* [RTX_腾讯通](https://www.rtxapp.com/mac) - 企业内部可以使用的聊天软件，企业内部可以使用此通讯工具，这个软件有Mac版本也是win版本，Mac版本专为 Retina 显示优化过![Freeware][Freeware Icon]
+* [RTX_腾讯通](https://www.rtxapp.com/mac) - 企业内部可以使用的聊天软件，企业内部可以使用此通讯工具，这个软件有Mac版本也有win版本，Mac版本专为 Retina 显示优化过![Freeware][Freeware Icon]
 
 ### Email
 
@@ -529,7 +565,6 @@
 
 ### RSS
 
-* [Feeds 2](http://www.feedsapp.com/) - 监控任何 RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
 * [NetNewsWire](https://ranchero.com/netnewswire/) - 免费的 RSS 阅读器。[![Open-Source Software][OSS Icon]](https://github.com/brentsimmons/NetNewsWire) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - 书签 RSS 管理客户端。
